@@ -2,7 +2,7 @@
   @class: org.apereo.cas.ws.idp.services.WSFederationRegisteredService
   serviceId: ^http://www.serviceid874256801.org
   name: TestServicedbac2195
-  theme: exampleTheme
+  theme: mytheme
   id: 4820583165004585984
   description: Registered service description
   proxyPolicy:
