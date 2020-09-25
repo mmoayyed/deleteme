@@ -2,7 +2,7 @@
   @class: org.apereo.cas.support.saml.services.SamlRegisteredService
   serviceId: ^http://www.serviceid289851525.org
   name: TestService13a54e1c
-  theme: exampleTheme
+  theme: mytheme
   id: 675836397479634944
   description: Registered service description
   proxyPolicy:
