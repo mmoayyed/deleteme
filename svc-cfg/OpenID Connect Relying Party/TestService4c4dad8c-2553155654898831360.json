@@ -2,7 +2,7 @@
   @class: org.apereo.cas.services.OidcRegisteredService
   serviceId: ^http://www.serviceid1750140314.org
   name: TestService4c4dad8c
-  theme: exampleTheme
+  theme: mytheme
   id: 2553155654898831360
   description: Registered service description
   proxyPolicy:
